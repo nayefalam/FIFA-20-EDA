@@ -1,0 +1,27 @@
+-Learn the steps needed to be taken in order to prepare you dataset for data exploration
+-Learn to use data exploration and visualization to uncover initial pattern in your data 
+-Learn to use Plotly module in python
+
+Tasks:
+Task 1: Introduction
+Introduction to the project and importing the FIFA20 player Dataset  
+
+Task 2: Data Preprocessing   
+Learn the steps needed to be taken to prepare our dataset for Data exploration  
+
+Task 3: Feature Engineering and Data Cleaning  
+Learn how to create new applicable features for our dataset and filling up NaN values in a proper way  
+
+Task 4: Learn to use plotly module Scatter Plot, Pie chart and Histogram    
+Learn to user various plots to illustrate the insights of you data
+
+Task 5: Continue our exploration and creating a player recommender function 
+
+Data Exploration:
+performing visualization and calculations to uncover patterns, insights and important point of intrests in the data
+
+Fruits :
+Watermelon - 25rs/kg x20kg
+Pineapple - 60rs/pc x12pcs
+Grapes - 100rs/kg x4kg
+
